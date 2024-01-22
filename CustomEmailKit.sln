@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEmailKit", "CustomEmailKit.csproj", "{FBE6707B-DDF1-4466-BDD4-84F09FCF5020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailServiceConsumption", "..\EmailServiceConsumption\EmailServiceConsumption.csproj", "{E7E1F1CC-C492-4715-8B3F-14F472D74FBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FBE6707B-DDF1-4466-BDD4-84F09FCF5020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE6707B-DDF1-4466-BDD4-84F09FCF5020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE6707B-DDF1-4466-BDD4-84F09FCF5020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E1F1CC-C492-4715-8B3F-14F472D74FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E1F1CC-C492-4715-8B3F-14F472D74FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E1F1CC-C492-4715-8B3F-14F472D74FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E1F1CC-C492-4715-8B3F-14F472D74FBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
